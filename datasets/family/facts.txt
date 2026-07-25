@@ -1,0 +1,5 @@
+# datasets/family/facts.txt
+Alice	parent_of	Bob
+Alice	parent_of	Carol
+Bob	sibling_of	Carol
+Carol	parent_of	Dave

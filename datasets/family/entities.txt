@@ -1,0 +1,5 @@
+# datasets/family/entities.txt
+Alice
+Bob
+Carol
+Dave
