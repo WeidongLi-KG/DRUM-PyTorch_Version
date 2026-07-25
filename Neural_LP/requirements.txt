@@ -1,0 +1,4 @@
+# Neural_LP/requirements.txt
+torch>=1.9.0
+numpy
+scipy
